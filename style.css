@@ -79,7 +79,7 @@ section .title::before {
     background: #111;
     transform: translateX(-50%);
 }
-
+.card
 section .title::after {
     position: absolute;
     bottom: -8px;
